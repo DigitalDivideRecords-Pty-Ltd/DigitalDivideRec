@@ -110,7 +110,7 @@ background-color: teal;
 .logo-image{
     width: 35px;
     height: 35px;
-
+    float: left;
   border-radius: 50%;
     overflow: hidden ;
     margin-top: -6px;
